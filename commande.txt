@@ -1,0 +1,14 @@
+Commande : 
+Client : SERANO Waïan
+Debut : 2020-06-22
+
+produit:                                fin :          prix :
+___________________________________________________________
+CD:Johnny Hallyday                      2020-06-25    24.0 euros 
+Roman:Les Miserables                    2020-06-25    9.0 euros 
+___________________________________________________________
+Total produits : 33.0 euros 
+Reduction client fidele : -3.3 euros 
+Sous-total : 29.7 euros 
+Reduction applicable : -2.0 euros 
+Total : 27.7 euros 
